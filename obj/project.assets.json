@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\dmc_n\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PROGRAMACION I - 2024I\\T1-GRUPAL\\T1-GRUPAL.csproj",
+      "projectUniqueName": "D:\\Programas\\Visual Code\\TrabajoGrupal\\AZUL-OSCURO\\T1-GRUPAL.csproj",
       "projectName": "T1-GRUPAL",
-      "projectPath": "D:\\PROGRAMACION I - 2024I\\T1-GRUPAL\\T1-GRUPAL.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\PROGRAMACION I - 2024I\\T1-GRUPAL\\obj\\",
+      "projectPath": "D:\\Programas\\Visual Code\\TrabajoGrupal\\AZUL-OSCURO\\T1-GRUPAL.csproj",
+      "packagesPath": "C:\\Users\\dmc_n\\.nuget\\packages\\",
+      "outputPath": "D:\\Programas\\Visual Code\\TrabajoGrupal\\AZUL-OSCURO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\dmc_n\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
